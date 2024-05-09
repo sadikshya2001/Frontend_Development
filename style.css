@@ -4,7 +4,7 @@
 }
 
 .custom-header {
-    margin-top: 100px; /* Adjust this value as needed */
+    margin-top: 100px; 
 }
 
 .full-width{
@@ -15,4 +15,9 @@
 .feature-item img{
     width: 50px;
     height: auto;
+}
+.subscribe{
+    background-image: url(img/typing.jpeg);
+    background-size: cover;
+    background-position: bottom;
 }
